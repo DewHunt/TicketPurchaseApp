@@ -1,0 +1,12 @@
+E:\SALMAN SABBIR\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.exe.config
+E:\SALMAN SABBIR\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.csprojResolveAssemblyReference.cache
+E:\SALMAN SABBIR\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.TicketPurchaseUI.resources
+E:\SALMAN SABBIR\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.Properties.Resources.resources
+E:\SALMAN SABBIR\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.csproj.GenerateResource.Cache
+E:\SALMAN SABBIR\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.exe
+E:\SALMAN SABBIR\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.pdb
+E:\SALMAN SABBIR\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.exe
+E:\SALMAN SABBIR\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.pdb
+E:\SEIP-BITM\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\bin\Debug\TicketPurchaseApp.exe.config
+E:\SEIP-BITM\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.exe
+E:\SEIP-BITM\Assignment\2015-4(April)-22\TicketPurchaseApp\TicketPurchaseApp\obj\Debug\TicketPurchaseApp.pdb
